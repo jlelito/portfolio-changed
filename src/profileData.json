@@ -1,0 +1,88 @@
+{
+	"landing": {
+		"firstName": "Josh",
+		"lastName": "Lelito",
+		"phoneNumber": "484",
+		"bio": "Currently I am working on building and testing Decentralized applications on the Ethereum blockchain.",
+    "email": "joshualelito@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/joshua-lelito/",
+		"github": "https://github.com/jlelito"
+	},
+
+
+	"experience": [
+		{
+				"position": "Information Technology Intern",
+				"organization": "SAS",
+				"aboutWork": "Automated the decommissioning process for virtual hosting environments using Python and PowerShell",
+				"fromDate": "May 2019",
+				"toDate": "August 2019"
+		},
+		{
+			"position": "Business Analyst",
+			"organization": "Haggard Law Information System",
+			"aboutWork": "Completed the SDLC for building an information system for a law firm in Greenville, NC",
+			"fromDate": "January 2019",
+			"toDate": "May 2019"
+		}
+		
+	],
+	"education": [{
+			"university": "East Carolina University",
+			"degree": "Management Information Systems",
+			"gpa": "3.88",
+			"fromDate": "August 2016",
+			"toDate": "May 2020"
+		}
+	],
+	"skills": [{
+			"name": "HTML5"
+		},
+		{
+			"name": "CSS3"
+		},
+		{
+			"name": "Javascript"
+		},
+		{
+			"name": "React"
+		},
+		{
+			"name": "PowerShell"
+		},
+		{
+			"name": "Python"
+		},
+		{
+			"name": "Solidity"
+		},
+		{
+			"name": "Truffle"
+		}
+	],
+	"interests": {
+		"paragraphOne": "Apart from being a web developer, I enjoy researching about blockchain technology and the different use-cases behind it",
+		"paragraphTwo": "Development rocks!"
+	},
+	"projects": [{
+			"projectName": "State Loan Machine",
+			"projectDetail": "Smart Contract designed to give out loans",
+			"link": "https://github.com/jlelito/solidity/tree/master/day16-loan-state-machine"
+		},
+		{
+			"projectName": "Voting Machine",
+			"projectDetail": "Smart contract to add voters, create new votes, and vote on Proposals",
+			"link": "https://github.com/jlelito/solidity/tree/master/day14-voting"
+		},
+		{
+			"projectName": "Decentralized Autonomous Organization (DAO)",
+			"projectDetail": "A DAO using Ether contributed to emulate shares and voting power of a company. ",
+			"link": "https://github.com/jlelito/solidity/tree/master/day15-dao"
+		},
+		{
+			"projectName": "Event Organization",
+			"projectDetail": "Create and buy tickets for events using a decentralized application.",
+			"link": "https://github.com/jlelito/solidity/tree/master/day17-event-organization"
+		}
+	]
+}
