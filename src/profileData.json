@@ -30,7 +30,7 @@
 	"education": [{
 			"university": "East Carolina University",
 			"degree": "Management Information Systems",
-			"gpa": "3.88",
+			"gpa": "3.9 / 4.0 GPA",
 			"fromDate": "August 2016",
 			"toDate": "May 2020"
 		}
@@ -68,12 +68,14 @@
 		{
 			"projectName": "Event Organization",
 			"projectDetail": "Create and buy tickets for events using a decentralized application on the Ropsten Test Network",
-			"link": "https://github.com/jlelito/events-dapp"
+			"link": "https://github.com/jlelito/events-dapp",
+			"image": "event"
 		},
 		{
 			"projectName": "Social Network",
 			"projectDetail": "Create posts and tip post authors for their content on the Ropsten Test Network",
-			"link": "https://github.com/jlelito/social-network"
+			"link": "https://github.com/jlelito/social-network",
+			"image": "social-network"
 		}
 		
 		
