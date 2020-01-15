@@ -62,27 +62,20 @@
 	],
 	"interests": {
 		"paragraphOne": "Apart from being a web developer, I enjoy researching about blockchain technology and the different use-cases behind it",
-		"paragraphTwo": "Development rocks!"
+		"paragraphTwo": "I'm also very interested in researching investment opportunities in stocks, commodities, cryptocurrencies, and Forex."
 	},
-	"projects": [{
-			"projectName": "State Loan Machine",
-			"projectDetail": "Smart Contract designed to give out loans",
-			"link": "https://github.com/jlelito/solidity/tree/master/day16-loan-state-machine"
-		},
-		{
-			"projectName": "Voting Machine",
-			"projectDetail": "Smart contract to add voters, create new votes, and vote on Proposals",
-			"link": "https://github.com/jlelito/solidity/tree/master/day14-voting"
-		},
-		{
-			"projectName": "Decentralized Autonomous Organization (DAO)",
-			"projectDetail": "A DAO using Ether contributed to emulate shares and voting power of a company. ",
-			"link": "https://github.com/jlelito/solidity/tree/master/day15-dao"
-		},
+	"projects": [
 		{
 			"projectName": "Event Organization",
-			"projectDetail": "Create and buy tickets for events using a decentralized application.",
-			"link": "https://github.com/jlelito/solidity/tree/master/day17-event-organization"
+			"projectDetail": "Create and buy tickets for events using a decentralized application on the Ropsten Test Network",
+			"link": "https://github.com/jlelito/events-dapp"
+		},
+		{
+			"projectName": "Social Network",
+			"projectDetail": "Create posts and tip post authors for their content on the Ropsten Test Network",
+			"link": "https://github.com/jlelito/social-network"
 		}
+		
+		
 	]
 }
