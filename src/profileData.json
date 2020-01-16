@@ -35,34 +35,27 @@
 			"toDate": "May 2020"
 		}
 	],
-	"skills": [{
-			"name": "HTML5"
-		},
-		{
-			"name": "CSS3"
-		},
-		{
-			"name": "Javascript"
-		},
-		{
-			"name": "React"
-		},
-		{
-			"name": "PowerShell"
-		},
-		{
-			"name": "Python"
-		},
-		{
-			"name": "Solidity"
-		},
-		{
-			"name": "Truffle"
-		}
-	],
+	"skills": {
+		
+		"blockchain": [
+			"Solidity", "Truffle", "Ganache"
+		],
+
+		"webdev": [
+			"HTML", "CSS", "Javascript", "PHP", "React.js"
+		],
+
+		"program": [
+			"Python", "SQL", "C#"
+		]
+
+	
+		
+	},
 	"interests": {
 		"paragraphOne": "Apart from being a web developer, I enjoy researching about blockchain technology and the different use-cases behind it",
-		"paragraphTwo": "I'm also very interested in researching investment opportunities in stocks, commodities, cryptocurrencies, and Forex."
+		"paragraphTwo": "I'm also very interested in researching investment opportunities in stocks, commodities, cryptocurrencies, and Forex",
+		"paragraphThree": "In my free time I like to run and workout, game, and spend time with friends on campus"
 	},
 	"projects": [
 		{

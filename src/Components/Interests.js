@@ -13,7 +13,8 @@ class Interests extends Component {
         <div className="w-100">
           <h2 className="mb-5">Interests</h2>
           <p>{this.interests.paragraphOne}</p>
-          <p className="mb-0">{this.interests.paragraphTwo}</p>
+          <p className="mb-3">{this.interests.paragraphTwo}</p>
+          <p className="mb-0">{this.interests.paragraphThree}</p>
         </div>
       </section>
     );
