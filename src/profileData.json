@@ -69,6 +69,12 @@
 			"projectDetail": "Create posts and tip post authors for their content on the Ropsten Test Network",
 			"link": "https://github.com/jlelito/social-network",
 			"image": "social-network"
+		},
+		{
+			"projectName": "Lottery",
+			"projectDetail": "Create Bets and Bet with other players using an Ethereum smart contract. IN PROGRESS!",
+			"link": "https://github.com/jlelito/solidity/tree/master/day18-lottery",
+			"image": "lottery"
 		}
 		
 		
