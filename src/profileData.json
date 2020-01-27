@@ -2,7 +2,7 @@
 	"landing": {
 		"firstName": "Josh",
 		"lastName": "Lelito",
-		"phoneNumber": "484",
+		"phoneNumber": "484-624-1313",
 		"bio": "Currently I am working on building and testing Decentralized applications on the Ethereum blockchain.",
     "email": "joshualelito@gmail.com",
     "linkedin": "https://www.linkedin.com/in/joshua-lelito/",
@@ -72,8 +72,8 @@
 		},
 		{
 			"projectName": "Lottery",
-			"projectDetail": "Create Bets and Bet with other players using an Ethereum smart contract. IN PROGRESS!",
-			"link": "https://github.com/jlelito/solidity/tree/master/day18-lottery",
+			"projectDetail": "Create Bets and Bet with other players using an Ethereum smart contract.",
+			"link": "https://github.com/jlelito/lottery",
 			"image": "lottery"
 		}
 		
